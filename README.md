@@ -21,4 +21,4 @@ One or more is fine.<br/>
 Send me a Pull Request!
 
 # List of Animal
-1. 
+1. duck
