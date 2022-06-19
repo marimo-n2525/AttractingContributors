@@ -22,3 +22,4 @@ Send me a Pull Request!
 
 # List of Animal
 1. mosquito
+2. Rabbits 🐰
