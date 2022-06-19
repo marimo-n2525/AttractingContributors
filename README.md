@@ -1,4 +1,4 @@
-# Attracting Contributors
+# Attracting Contributors - animal
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
 # Rules
@@ -21,5 +21,16 @@ One or more is fine.<br/>
 Send me a Pull Request!
 
 # List of Animal
-1. Cats
-2. Penguine
+1. mosquito
+2. Rabbits 🐰
+3. Cat
+4. zebra
+5. dog
+6. Kangaroo
+7. Physignathus cocincinus
+8. duck
+9. Shiba Inu
+10. Elephant
+11. Kuma
+12. Cats
+13. Penguine
