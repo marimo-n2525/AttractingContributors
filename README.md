@@ -29,3 +29,4 @@ Send me a Pull Request!
 6. Kangaroo
 7. Physignathus cocincinus
 8. duck
+9. Shiba Inu
