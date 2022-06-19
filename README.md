@@ -30,3 +30,4 @@ Send me a Pull Request!
 7. Physignathus cocincinus
 8. duck
 9. Shiba Inu
+10. Elephant
