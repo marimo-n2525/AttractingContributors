@@ -26,3 +26,4 @@ Send me a Pull Request!
 3. Cat
 4. zebra
 5. dog
+6. Kangaroo
