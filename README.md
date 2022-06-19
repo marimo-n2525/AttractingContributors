@@ -1,4 +1,4 @@
-# Attracting Contributors
+# Attracting Contributors - animal
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
 # Rules
@@ -21,4 +21,5 @@ One or more is fine.<br/>
 Send me a Pull Request!
 
 # List of Animal
-1. Rabbits 🐰
+1. mosquito
+2. Rabbits 🐰
