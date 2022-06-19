@@ -31,3 +31,4 @@ Send me a Pull Request!
 8. duck
 9. Shiba Inu
 10. Elephant
+11. Kuma
