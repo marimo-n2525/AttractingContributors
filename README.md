@@ -25,3 +25,4 @@ Send me a Pull Request!
 2. Rabbits 🐰
 3. Cat
 4. zebra
+5. dog
