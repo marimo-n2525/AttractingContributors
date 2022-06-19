@@ -32,3 +32,5 @@ Send me a Pull Request!
 9. Shiba Inu
 10. Elephant
 11. Kuma
+12. Cats
+13. Penguine
