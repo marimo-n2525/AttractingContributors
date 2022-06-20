@@ -32,4 +32,4 @@ I'm looking forward to your effort!
 #7 grape
 #8 Watermelon 🍉
 #9 remon
-#10
+#10 plum
