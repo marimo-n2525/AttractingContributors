@@ -34,3 +34,4 @@ I'm looking forward to your effort!
 #9 remon<br>
 #10 plum<br>
 #11 Rice<br>
+#12 Strawberry<br>
