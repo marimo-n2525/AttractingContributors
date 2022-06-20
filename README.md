@@ -20,6 +20,7 @@ To complete the assignment, please do the following:
 
 Please tell me your favorite flutes.
 
+I'm looking forward to your effort!
 # List of Hobby
 
 #1 Kiwi
@@ -30,5 +31,5 @@ Please tell me your favorite flutes.
 #6 coconut
 #7 grape
 #8 Watermelon 🍉
-#9
+#9 remon
 #10
