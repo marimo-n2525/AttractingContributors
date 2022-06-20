@@ -29,6 +29,6 @@ Please tell me your favorite flutes.
 #5 Banana
 #6 coconut
 #7 grape
-#8
+#8 Watermelon 🍉
 #9
 #10
