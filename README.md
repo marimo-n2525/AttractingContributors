@@ -13,6 +13,7 @@ If not, please let me know what you recommend in the cafeteria.
 
 1. 福茂千
 3. 親子丼
+4. むさしの森珈琲
 
 # List of Restaurants
 1. カツ丼(3票)
